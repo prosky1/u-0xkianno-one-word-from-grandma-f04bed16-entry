@@ -7,7 +7,7 @@
 Entry for the [One Word From Grandma](https://make.fun/bounty/u-0xkianno-one-word-from-grandma-f04bed16) bounty on make.fun.
 
 The task: send exactly one word — the word Grandma would text about AI.
-Our word: **Witchcraft**.
+Our word: **Toaster**.
 
 `main.ts` writes that single word to `/output/entry.txt`, validated against the
 gate (UTF-8 text, 1–30 characters, not only white space) and verified by a
